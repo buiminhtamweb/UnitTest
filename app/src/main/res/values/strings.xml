@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unit Test</string>
+    <string name="sign_in">Sign In</string>
+    <string name="err_account_null">Tài khoản không tồn tại</string>
+</resources>
